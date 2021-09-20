@@ -1,0 +1,7 @@
+E:\MauThietKe\Bai1_MauThietKe\Bai1_MauThietKe\bin\Debug\Bai1_MauThietKe.exe.config
+E:\MauThietKe\Bai1_MauThietKe\Bai1_MauThietKe\bin\Debug\Bai1_MauThietKe.exe
+E:\MauThietKe\Bai1_MauThietKe\Bai1_MauThietKe\bin\Debug\Bai1_MauThietKe.pdb
+E:\MauThietKe\Bai1_MauThietKe\Bai1_MauThietKe\obj\Debug\Bai1_MauThietKe.csproj.AssemblyReference.cache
+E:\MauThietKe\Bai1_MauThietKe\Bai1_MauThietKe\obj\Debug\Bai1_MauThietKe.csproj.CoreCompileInputs.cache
+E:\MauThietKe\Bai1_MauThietKe\Bai1_MauThietKe\obj\Debug\Bai1_MauThietKe.exe
+E:\MauThietKe\Bai1_MauThietKe\Bai1_MauThietKe\obj\Debug\Bai1_MauThietKe.pdb
